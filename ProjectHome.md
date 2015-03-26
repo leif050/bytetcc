@@ -1,0 +1,1 @@
+ByteTCC是一个基于Try/Confirm/Cancel事务补偿机制的分布式事务管理器组件。0.1.2之前的版本见[openjtcc](http://code.google.com/p/openjtcc)。
